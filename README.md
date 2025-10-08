@@ -58,7 +58,9 @@ I'm passionate about building **modern web applications** with both **frontend a
 
 ### 📈 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsrs&show_icons=true&theme=tokyonight&count_private=true)
+| ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsrs&show_icons=true&theme=tokyonight&count_private=true) |  ![Most used langages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsrs&theme=radical&layout=compact) |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+
 
 ---
 
