@@ -50,16 +50,16 @@ I'm passionate about building **modern web applications** with both **frontend a
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| **TopTunes** | Node.js, Express, EJS | Consumes an external API to display music data. |
-| **OldOnesStories-2000s** | Node.js, Express, EJS, MongoDB | CRUD application with API integration; initially without persistence, later added MongoDB. |
-| **BookAPI** | Node.js, Express, PostgreSQL, Vitest | RestAPI project with tests and database integration. |
-| **ToDo** | React, Tailwind CSS | Modern React app for task management. |
+| [**TopTunes**](https://github.com/gabrielsrs/TopTunes) | Node.js, Express, EJS | Consumes an external API to display music data. |
+| [**OldOnesStories-2000s**](https://github.com/gabrielsrs/OldOnesStories-2000s) | Node.js, Express, EJS, MongoDB | CRUD application with API integration; initially without persistence, later added MongoDB. |
+| [**BookAPI**](https://github.com/gabrielsrs/bookAPI) | Node.js, Express, PostgreSQL, Vitest | RestAPI project with tests and database integration. |
+| [**ToDo**]() | React, Tailwind CSS | Modern React app for task management. |
 
 ---
 
 ### 📈 GitHub Stats
 
-| ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsrs&show_icons=true&theme=tokyonight&count_private=true) |  ![Most used langages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsrs&theme=radical&layout=compact) |
+| ![Gabriel's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsrs&theme=material_palenight) |  ![Most used langages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsrs&theme=material_palenight) |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 
 
