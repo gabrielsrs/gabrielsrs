@@ -53,7 +53,7 @@ I'm passionate about building **modern web applications** with both **frontend a
 | [**TopTunes**](https://github.com/gabrielsrs/TopTunes) | Node.js, Express, EJS | Consumes an external API to display music data. |
 | [**OldOnesStories-2000s**](https://github.com/gabrielsrs/OldOnesStories-2000s) | Node.js, Express, EJS, MongoDB | CRUD application with API integration; initially without persistence, later added MongoDB. |
 | [**BookAPI**](https://github.com/gabrielsrs/bookAPI) | Node.js, Express, PostgreSQL, Vitest | RestAPI project with tests and database integration. |
-| [**ToDo**]() | React, Tailwind CSS | Modern React app for task management. |
+| [**ToDo**](https://github.com/gabrielsrs/toDo) | React, Tailwind CSS | Modern React app for task management. |
 
 ---
 
