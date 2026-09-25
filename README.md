@@ -68,5 +68,5 @@ I'm passionate about building **modern web applications** with both **frontend a
 ### 🌱 Currently Learning
 - Backend stuffs  
 - Always something about Python(now FastAPI) & Node.js  
-- **DevOps basics**: CI/CD, Docker Compose  
+- **DevOps basics**: CI/CD, Docker Compose, Observability, Cloud  
 - And probably something more...
